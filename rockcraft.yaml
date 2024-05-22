@@ -10,6 +10,7 @@ description: |
 license: GPL-3.0 # your application's SPDX license
 platforms: # The platforms this rock should be built on and run on
     arm64:
+    amd64:
 
 # To ensure the flask-framework extension works properly, your Flask application
 # should have an `app.py` file with an `app` object as the WSGI entrypoint.
